@@ -1,3 +1,3 @@
 # www-chiz
 
-Ayo, this is public site for scorpioneng.dev
+Ayo, this is a site I template that caught my eye so I altered it
